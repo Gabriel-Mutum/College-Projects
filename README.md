@@ -6,13 +6,18 @@ A depository for past programs I coded or contributed to during college; small i
 
 Below are the main projects / folders in this repository, with a brief description:
 
-| Folder / Project                                 | Description / Purpose                                                                                                                |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **AI_Tensorflow**                                | Machine-learning / AI experiments using TensorFlow (e.g. neural networks, data modeling)                                             |
-| **Bitwise_Operations**                           | Small scripts / exercises focusing on bitwise operations for algorithm practice or learning low-level logic                          |
-| **Register and Log in Dataset - Front End, Php** | Web project / backend + front-end using PHP to implement registration and login functionality, possibly for a dataset or user system |
-| **RestaurantWebsite-Php**                        | A PHP-based website project to practice web development                                                                              |
-| **WeatherApp-JS**                                | A JavaScript front-end project: likely a weather application that fetches API data and displays weather info in the browser          |
+| Folder / Project                                                                                   | Description / Purpose                                                                                                                |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **AI_Tensorflow**                                                                                  | - **Goal:** Developed AI models for tasks such as image and text classification, implementing machine learning workflows end-to-end. |
+| - **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib. networks, data modeling.         |                                                                                                                                      |
+| **Bitwise_Operations**                                                                             | - **Goal:** Implemented and explored various bitwise operations to optimize computational efficiency in algorithms.                  |
+| - **Technologies:** Python, C++, console-based input/output. Practice or learning low-level logic. |
+| **Register and Log in Dataset - Front End, Php**                                                   | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling.                      |
+| - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                             |
+| **RestaurantWebsite-Php**                                                                          | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling.                      |
+| - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                             |
+| **WeatherApp-JS**                                                                                  | - **Goal:** Developed a web application to fetch and display real-time weather information using API integration.                    |
+| - **Technologies:** JavaScript, HTML, CSS, OpenWeatherMap API.                                     |
 
 ## 🧰 Languages & Technologies Used
 
@@ -26,7 +31,7 @@ Across the various projects, the repository includes code in:
 
 ## 🚀 Purpose & Why This Repo
 
-The main goal of this repository is to keep a record of different exercises, demos, and projects I’ve worked on — from small scripts to full web apps — so I can revisit them, build on them, or showcase them as examples of my work and learning path.
+The main goal of this repository is to keep a record of different exercises, demos, and projects I’ve worked on during college — from small scripts to full web apps — so I can revisit them, build on them, or showcase them as examples of my work and learning path.
 
 ## 📂 Repository Layout (example)
 
@@ -35,7 +40,7 @@ My-Projects/
 │
 ├── AI_Tensorflow/                 — ML / AI experiments
 ├── Bitwise_Operations/            — Algorithm / bitwise logic exercises
-├── Register_and_Log_in_Dataset-FrontEnd_PHP/  — Web login/register project (PHP + front-end)
+├── Log_in_Dataset-FrontEnd_PHP/   — Web login/register project (PHP + front-end)
 ├── RestaurantWebsite-Php/         — Sample restaurant website (PHP + HTML/CSS)
 ├── WeatherApp-JS/                 — Front-end weather app (JavaScript + HTML/CSS)
 ├── README.md                      — This file
