@@ -7,16 +7,16 @@ A depository for past programs I coded or contributed to during college; small i
 Below are the main projects / folders in this repository, with a brief description:
 
 | Folder / Project                                                                                   | Description / Purpose                                                                                                                |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | --- |
 | **AI_Tensorflow**                                                                                  | - **Goal:** Developed AI models for tasks such as image and text classification, implementing machine learning workflows end-to-end. |
-| - **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib. networks, data modeling.         |                                                                                                                                      |
+|                                                                                                    |                                                                                                                                      | - **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib. networks, data modeling. |     |
 | **Bitwise_Operations**                                                                             | - **Goal:** Implemented and explored various bitwise operations to optimize computational efficiency in algorithms.                  |
 | - **Technologies:** Python, C++, console-based input/output. Practice or learning low-level logic. |
-| **Register and Log in Dataset - Front End, Php**                                                   | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling.                      |
+| **Register and Log in Website - Front End, Php**                                                   | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling.                      |
 | - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                             |
-| **RestaurantWebsite-Php**                                                                          | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling.                      |
+| **Restaurant Website**                                                                             | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling.                      |
 | - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                             |
-| **WeatherApp-JS**                                                                                  | - **Goal:** Developed a web application to fetch and display real-time weather information using API integration.                    |
+| **Weather App Website**                                                                            | - **Goal:** Developed a web application to fetch and display real-time weather information using API integration.                    |
 | - **Technologies:** JavaScript, HTML, CSS, OpenWeatherMap API.                                     |
 
 ## 🧰 Languages & Technologies Used
@@ -43,8 +43,7 @@ My-Projects/
 ├── Log_in_Dataset-FrontEnd_PHP/   — Web login/register project (PHP + front-end)
 ├── RestaurantWebsite-Php/         — Sample restaurant website (PHP + HTML/CSS)
 ├── WeatherApp-JS/                 — Front-end weather app (JavaScript + HTML/CSS)
-├── README.md                      — This file
-└── … (other projects & files)
+└── README.md                      — This file
 ```
 
 Feel free to browse each folder to explore the code, read comments, or run the projects.
